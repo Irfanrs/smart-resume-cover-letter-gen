@@ -12,13 +12,13 @@ This AI-powered app uses **Google Gemini** and **Gradio** to help you:
 - Choose tone & language
 - Built-in RAG-lite suggestions for resume improvement
 
-## 🛠️ How to Run
-```bash
-pip install -r requirements.txt
-python app.py
-
 ## 🌐 Live Demo
 Check out the live demo of the app on [Hugging Face](https://huggingface.co/spaces/Irfan1986/GenAI_Capstone_Project).
 
 ## 🔗 GitHub Repository
 Find the code on GitHub: [Smart Resume & Cover Letter Generator GitHub](https://github.com/Irfanrs/smart-resume-cover-letter-gen)
+
+## 🛠️ How to Run
+```bash
+pip install -r requirements.txt
+python app.py
