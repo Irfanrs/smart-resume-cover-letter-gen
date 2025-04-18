@@ -16,9 +16,3 @@ This AI-powered app uses **Google Gemini** and **Gradio** to help you:
 ```bash
 pip install -r requirements.txt
 python app.py
-
-🌐 Live Demo
-Check out the live demo of the app on Hugging Face.
-
-🔗 GitHub Repository
-Find the code on GitHub: Smart Resume & Cover Letter Generator GitHub
